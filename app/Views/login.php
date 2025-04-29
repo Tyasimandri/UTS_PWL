@@ -83,8 +83,8 @@
         this.querySelector('i').classList.toggle('fa-eye');
         this.querySelector('i').classList.toggle('fa-eye-slash');
     });
-</script>
-
+    </script>
+<?= view('layouts/footer') ?>
 
 </body>
 </html>

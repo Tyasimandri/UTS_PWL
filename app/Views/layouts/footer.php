@@ -3,6 +3,20 @@
     <i class="fas fa-angle-up"></i>
 </a>
 
+<!-- ======= Footer ======= -->
+<footer id="footer" class="footer pb-5">
+    <div class="container">
+        <div class="text-center">
+            <div class="copyright">
+                &copy; Copyright <strong><span>TYAS IMANDRI P</span></strong> All Rights Reserved
+            </div>
+            <div class="credits">
+                Designed by <a href="https://bootstrapmade.com/">TOKO TRIJAYA</a>
+            </div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
 <!-- Bootstrap core JavaScript-->
 <script src="<?= base_url('SBAdmin2/vendor/jquery/jquery.min.js') ?>"></script>
 <script src="<?= base_url('SBAdmin2/vendor/bootstrap/js/bootstrap.bundle.min.js') ?>"></script>

@@ -99,9 +99,9 @@
                     <div class="row">
                         <div class="col-md-3 mb-4">
                             <div class="card">
-                                <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 1">
+                                <img src="<?= base_url('images/BluetoothSpeaker.jpg') ?>" class="card-img-top" alt="Bluetooth Speaker" style="height: 200px; object-fit: cover;">
                                 <div class="card-body">
-                                    <h5 class="card-title">Product 1</h5>
+                                    <h5 class="card-title">Bluetooth Speaker</h5>
                                     <p class="card-text">$150</p>
                                     <a href="#" class="btn btn-primary btn-sm">View Details</a>
                                 </div>
@@ -109,9 +109,9 @@
                         </div>
                         <div class="col-md-3 mb-4">
                             <div class="card">
-                                <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 2">
+                                <img src="<?= base_url('images/Smartwatch.jpg') ?>" class="card-img-top" alt="Smartwatch" style="height: 200px; object-fit: cover;">
                                 <div class="card-body">
-                                    <h5 class="card-title">Product 2</h5>
+                                    <h5 class="card-title">Smartwatch</h5>
                                     <p class="card-text">$250</p>
                                     <a href="#" class="btn btn-primary btn-sm">View Details</a>
                                 </div>
@@ -119,9 +119,9 @@
                         </div>
                         <div class="col-md-3 mb-4">
                             <div class="card">
-                                <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 3">
+                                <img src="<?= base_url('images/WirelessH.jpg') ?>" class="card-img-top" alt="Wireless Headphone" style="height: 200px; object-fit: cover;">
                                 <div class="card-body">
-                                    <h5 class="card-title">Product 3</h5>
+                                    <h5 class="card-title">Wireless Headphone</h5>
                                     <p class="card-text">$180</p>
                                     <a href="#" class="btn btn-primary btn-sm">View Details</a>
                                 </div>
@@ -129,9 +129,9 @@
                         </div>
                         <div class="col-md-3 mb-4">
                             <div class="card">
-                                <img src="https://via.placeholder.com/150" class="card-img-top" alt="Product 4">
+                                <img src="<?= base_url('images/DSLR.jpg') ?>" class="card-img-top" alt="DSLR Camera" style="height: 200px; object-fit: cover;">
                                 <div class="card-body">
-                                    <h5 class="card-title">Product 4</h5>
+                                    <h5 class="card-title">DSLR Camera</h5>
                                     <p class="card-text">$300</p>
                                     <a href="#" class="btn btn-primary btn-sm">View Details</a>
                                 </div>
